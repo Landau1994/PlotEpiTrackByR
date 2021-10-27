@@ -1,8 +1,8 @@
 # Visualize Epigenome Track by R
 
-Aim: To aovid tedious decorate Epigenome Track by IGV + Adobe Illustrator
+Aim: To reduce time wasted in tedious decorate Epigenome Track by IGV + Adobe Illustrator
 
-The function `myGenePlot()` and `myBigwigTrack()` were apapted by the function `AnnotationPlot()` and `BigwigTrack()` in R package `Signac`(version 1.4.0)
+The function `myGenePlot()` and `myBigwigTrack()` were adapted from the function `AnnotationPlot()` and `BigwigTrack()` in R package `Signac`(version 1.4.0)
 
 
 ## Basic Usage
